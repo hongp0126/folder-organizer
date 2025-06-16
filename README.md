@@ -60,6 +60,11 @@ Some features I'm considering for future updates:
 - Flatten subfolders
 ---
 
+## 📥 Download
+
+You can download the latest `.exe` build from the https://github.com/hongp0126/folder-organizer/releases/tag/v1.0.0
+---
+
 ## 🧑‍💻 Author
 
 Made by Hong Park.  
