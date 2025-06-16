@@ -1,6 +1,6 @@
 # 🗂️ Folder Organizer
 
-This is a simple desktop tool that helps you organize files in any folder by grouping them into categorized subfolders — such as Images, Documents, Videos, and more — based on their file extensions.
+This is a simple desktop tool that helps you organize files in any folder by grouping them into categorized subfolders; such as Images, Documents, Videos, and more — based on their file extensions.
 
 I made it mainly to keep my Downloads folder clean, but you can use it for any folder. It's built using Python and Tkinter, with a minimal dark mode interface.
 
